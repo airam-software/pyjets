@@ -1,2 +1,2 @@
 # pyjets
-Stratospheric climatological features calculation
+Polar night jet climatological features calculation through a machine learning classifier.
